@@ -1,2 +1,2 @@
 # sokoban_v2
-Projet 2017: Sokoban v2.0
+Projet en C, ESIEE Paris 2017: Sokoban v2.0
